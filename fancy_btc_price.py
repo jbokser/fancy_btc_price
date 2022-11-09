@@ -6,7 +6,7 @@ from sys import stderr
 from click import command, option, IntRange
 
 
-version='0.1'
+version='0.1.1'
 
 
 class BtcPrice():
