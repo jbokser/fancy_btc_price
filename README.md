@@ -69,6 +69,13 @@ Options:
   --version                    Show version and exit
   -m, --max-age INTEGER RANGE  Max price age without showing a warning (in
                                minutes)  [default: 3; 1<=x<=120]
-  --help                       Show this message and exit.
+  -h, --help                   Show this message and exit.
 user@host:~$
 ```
+
+
+## Why
+
+Mainly to be used by the [Gnome Shell Extension Executor](https://github.com/raujonas/executor). This Gnome extension execute multiple shell commands periodically with separate intervals and display the output in gnome top bar.
+
+Fancy BTC Price was developed some time ago but due to the need to install a new desktop pc, it was published to simplify this task.
