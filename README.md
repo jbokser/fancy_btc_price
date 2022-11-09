@@ -74,8 +74,10 @@ user@host:~$
 ```
 
 
-## Why
+## Why?
 
 Mainly to be used by the [Gnome Shell Extension Executor](https://github.com/raujonas/executor). This Gnome extension execute multiple shell commands periodically with separate intervals and display the output in gnome top bar.
+
+![screenshot](https://raw.githubusercontent.com/jbokser/fancy_btc_price/main/docs/images/screenshot.jpg)
 
 Fancy BTC Price was developed some time ago but due to the need to install a new desktop pc, it was published to simplify this task.
